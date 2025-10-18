@@ -28,8 +28,7 @@ const translations = {
     tip2: "Combine uppercase, lowercase, numbers, and @ for maximum strength",
     tip3: "Avoid using personal information in passwords",
     tip4: "Use different passwords for important accounts",
-    footer:
-      "Made with React & Tailwind CSS • Length: 12-16 characters • Special character: @",
+    footer: "@SybauProVip68",
     theme: "Theme",
     light: "Light",
     dark: "Dark",
@@ -61,8 +60,7 @@ const translations = {
     tip2: "Kết hợp chữ hoa, chữ thường, số và @ để tăng độ mạnh",
     tip3: "Tránh sử dụng thông tin cá nhân trong mật khẩu",
     tip4: "Sử dụng mật khẩu khác nhau cho các tài khoản quan trọng",
-    footer:
-      "Được tạo bằng React & Tailwind CSS • Độ dài: 12-16 ký tự • Ký tự đặc biệt: @",
+    footer: "@SybauProVip68",
     theme: "Giao Diện",
     light: "Sáng",
     dark: "Tối",
